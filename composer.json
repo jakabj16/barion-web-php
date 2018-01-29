@@ -1,13 +1,13 @@
 {
-	"name": "pumuklisk8/barion-web-php",
+	"name": "jakabj16/barion-web-php",
 	"description": "Barion web API for Yii 2",
 	"type": "yii2-extension",
 	"keywords": ["yii2","extension","barion"],
 	"license": "BSD-3-Clause",
 	"authors": [
 		{
-			"name": "Daniel Schmidt",
-			"email": "pumuklisk8@gmail.com"
+			"name": "Jozsef Jakab",
+			"email": "jakabj16@gmail.com"
 		}
 	],
 	"require": {},
