@@ -1,4 +1,8 @@
 <?php
+namespace Barion\models;
+
+use Barion\helpers\iBarionModel;
+use function Barion\helpers\jget;
 
 /**
  * Copyright 2016 Barion Payment Inc. All Rights Reserved.

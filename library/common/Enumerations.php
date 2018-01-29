@@ -1,4 +1,5 @@
 <?php
+namespace Barion\common;
 
 abstract class BarionEnvironment
 {

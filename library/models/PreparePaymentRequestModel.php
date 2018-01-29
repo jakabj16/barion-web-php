@@ -1,4 +1,9 @@
 <?php
+namespace Barion\models;
+
+use Barion\common\Currency;
+use Barion\common\FundingSourceType;
+use Barion\common\PaymentType;
 
 /**
  * Copyright 2016 Barion Payment Inc. All Rights Reserved.

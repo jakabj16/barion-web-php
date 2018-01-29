@@ -1,4 +1,7 @@
 <?php
+namespace Barion\models;
+
+use Barion\helpers\iBarionModel;
 
 /**
  * Copyright 2016 Barion Payment Inc. All Rights Reserved.
@@ -15,7 +18,8 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-class RefundedTransactionModel implements iBarionModel {
+class RefundedTransactionModel implements iBarionModel
+{
 
     public $TransactionId;
     public $Total;

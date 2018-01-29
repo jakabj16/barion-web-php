@@ -1,4 +1,5 @@
 <?php
+namespace Barion\models;
 
 /**
  * Copyright 2016 Barion Payment Inc. All Rights Reserved.

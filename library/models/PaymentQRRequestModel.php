@@ -1,4 +1,7 @@
 <?php
+namespace Barion\models;
+
+use Barion\common\QRCodeSize;
 
 /**
  * Copyright 2016 Barion Payment Inc. All Rights Reserved.

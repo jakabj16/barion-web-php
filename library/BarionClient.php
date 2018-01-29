@@ -1,4 +1,19 @@
 <?php
+namespace Barion;
+
+use Barion\common\BarionEnvironment;
+use Barion\common\QRCodeSize;
+use Barion\models\ApiErrorModel;
+use Barion\models\BaseResponseModel;
+use Barion\models\FinishReservationRequestModel;
+use Barion\models\FinishReservationResponseModel;
+use Barion\models\PaymentQRRequestModel;
+use Barion\models\PaymentStateRequestModel;
+use Barion\models\PaymentStateResponseModel;
+use Barion\models\PreparePaymentRequestModel;
+use Barion\models\PreparePaymentResponseModel;
+use Barion\models\RefundRequestModel;
+use Barion\models\RefundResponseModel;
 
 /**
  * Copyright 2016 Barion Payment Inc. All Rights Reserved.
