@@ -1,5 +1,5 @@
 <?php
-namespace Barion\library;
+namespace Barion;
 
 use Barion\common\BarionEnvironment;
 use Barion\common\QRCodeSize;
